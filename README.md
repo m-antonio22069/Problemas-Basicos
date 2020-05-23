@@ -61,6 +61,7 @@ Operações Matematicas
   - somaDosDigitos.py
   - somadosdigitos2.py
   - taxa.py
+  - FatoracaoLU.py
  
  Desenho
   - def_desenha.py
